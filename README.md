@@ -1,4 +1,6 @@
-# CS-MP3
+# CS-MP3 
+
+ Logo: ![Alt](/wp.png "Title")
 
 ### *Customer segmentation*
 > *Customer segmentation* is the process of dividing customers into groups based on common characteristics, which allows companies to market each group effectively and appropriately
