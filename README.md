@@ -26,3 +26,10 @@
 >We then review general approaches to customer segmentation, with an emphasis on the most powerful and flexible analytical approaches and statistical models. This begins with a discussion of logistic regression for supervised classification, and general types of cluster analysis, both descriptive and predictive. Predictive clustering methods include cluster regression and CHAID (Chi-squared automatic interaction detection, which is also viewed as a tree classifier). Finally, we consider general latent class models that can handle multiple dependent measures of mixed type. These models can also accommodate samples that are drawn from a pre-defined group structure (e.g., multiple observations per household). To illustrate an application of these models, we study a large data set provided by an international specialty-goods retail chain.
 
 ## Technology Used
+
+## Devploer Id's
+- Anchal Singh:(https://github.com/Aanchal1012) (https://www.linkedin.com/in/aanchal-singh-97b58717b/)
+- Jasimine Kaur:
+- Tanisha: (https://www.linkedin.com/in/tanisha-hisariya-a168a2192)  
+- Dilpreet Kaur
+- Daksh Sharma:(https://www.linkedin.com/in/daksh-sharma-bb48a5180)  
