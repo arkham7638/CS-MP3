@@ -31,5 +31,5 @@
 - Anchal Singh:(https://github.com/Aanchal1012) (https://www.linkedin.com/in/aanchal-singh-97b58717b/)
 - Jasimine Kaur:
 - Tanisha: (https://www.linkedin.com/in/tanisha-hisariya-a168a2192)  
-- Dilpreet Kaur
+- Dilpreet Kaur: (https://www.linkedin.com/in/dilpreet-kaur-2201111a3/)
 - Daksh Sharma:(https://www.linkedin.com/in/daksh-sharma-bb48a5180)  
