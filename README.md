@@ -1,6 +1,4 @@
-# CS-MP3 
-
- Logo: ![Alt](/wp.png "Title")
+![chandigarh-university-seal](https://user-images.githubusercontent.com/56217969/108203271-412d3d80-7148-11eb-8823-15d26d97851a.png)
 
 ### *Customer segmentation*
 > *Customer segmentation* is the process of dividing customers into groups based on common characteristics, which allows companies to market each group effectively and appropriately
