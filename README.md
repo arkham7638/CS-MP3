@@ -27,7 +27,7 @@
 
 ## Technology Used
 
-## Devploer Id's
+## Devloper Id's
 - Anchal Singh:(https://github.com/Aanchal1012) (https://www.linkedin.com/in/aanchal-singh-97b58717b/)
 - Jasimine Kaur:
 - Tanisha: (https://www.linkedin.com/in/tanisha-hisariya-a168a2192)  
