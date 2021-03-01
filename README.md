@@ -14,7 +14,7 @@
 ## Table Of Contents
 - Abstract
 - Technology Used
-- Genrating Model 
+- Backend 
 - Not defined
 - Devlopers Id(Links)
 
